@@ -1,0 +1,6 @@
+name: ctrl-z-in-mdt
+displayName: Ctrl+Z-inMDT
+author: Ag
+description: "你将可以在游戏内使用 Ctrl+Z 实现撤销你的每一次操作(保留容器内物品,液体和逻辑)\n如果您启用了部分模组的快速建造(删除)功能,有概率出现BUG"
+version: 0.1.0
+minGameVersion: 158
